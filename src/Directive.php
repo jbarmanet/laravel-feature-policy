@@ -10,6 +10,7 @@ abstract class Directive
     const AMBIENT_LIGHT_SENSOR = 'ambient-light-sensor';
     const AUTOPLAY = 'autoplay';
     const CAMERA = 'camera';
+	const DISPLAY_CAPTURE = 'display-capture';
     const DOCUMENT_DOMAIN = 'document-domain';
     const ENCRYPTED_MEDIA = 'encrypted-media';
     const EXECUTION_WHILE_NOT_RENDERED = 'execution-while-not-rendered';
